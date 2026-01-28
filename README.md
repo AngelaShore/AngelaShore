@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AngelaDhimitri
+- 👋 Hi, I’m @AngelaShore (Dhimitri)
 - 👀 I’m interested in software development 
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me shoreanxhela@gmail.com
