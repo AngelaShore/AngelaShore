@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AngelaShore
+- 👋 Hi, I’m @AngelaDhimitri
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on React projects
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me shoreanxhela@gmail.com
 
 <!---
